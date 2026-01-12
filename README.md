@@ -1,4 +1,3 @@
-# Supply-Chain-Operations-Analysis
 
 # 📦 Supply Chain Operations Analysis
 
